@@ -1,12 +1,18 @@
 [
     {
         "id":"1",
-        "SubjectName":"NSTP 111",
+        "SubjectName":"WBDV 112",
         "times":[
             {
-                "sTime":"10:20",
-                "eTime":"13:20",
-                "sTimeType":"AM",
+                "sTime":"4:50",
+                "eTime":"6:20",
+                "sTimeType":"PM",
+                "eTimeType":"PM"
+            },
+            {
+                "sTime":"1:30",
+                "eTime":"3:30",
+                "sTimeType":"PM",
                 "eTimeType":"PM"
             }
         ],
@@ -14,124 +20,107 @@
     },
     {
         "id":"2",
-        "SubjectName":"OOPR 211",
+        "SubjectName":"ADET 211",
         "times":[
             {
-                "sTime":"13:30",
-                "eTime":"15:30",
-                "sTimeType":"PM",
-                "eTimeType":"PM"
+                "sTime":"10:20",
+                "eTime":"11:50",
+                "sTimeType":"AM",
+                "eTimeType":"AM"
             },
             {
-                "sTime":"16:50",
-                "eTime":"18:50",
-                "sTimeType":"PM",
-                "eTimeType":"PM"
+                "sTime":"8:00",
+                "eTime":"10:00",
+                "sTimeType":"AM",
+                "eTimeType":"AM"
             }
         ],
         "day":["1"]
     },
     {
         "id":"3",
-        "SubjectName":"IMGT 211",
+        "SubjectName":"DBSA 211",
         "times":[
             {
-                "sTime":"08:00",
+                "sTime":"10:20",
+                "eTime":"12:20",
+                "sTimeType":"AM",
+                "eTimeType":"PM"
+            },
+            {
+                "sTime":"8:30",
                 "eTime":"10:00",
                 "sTimeType":"AM",
                 "eTimeType":"AM"
-            },
-            {
-                "sTime":"10:20",
-                "eTime":"11:50",
-                "sTimeType":"AM",
-                "eTimeType":"AM"
-            }
-        ],
-        "day":["2"]
-    },
-    {
-        "id":"4",
-        "SubjectName":"VRTS 114",
-        "times":[
-            {
-                "sTime":"12:00",
-                "eTime":"13:00",
-                "sTimeType":"PM",
-                "eTimeType":"PM"
-            }
-        ],
-        "day":["2"]
-    },
-    {
-        "id":"5",
-        "SubjectName":"QMET211",
-        "times":[
-            {
-                "sTime":"13:30",
-                "eTime":"16:30",
-                "sTimeType":"PM",
-                "eTimeType":"PM"
             }
         ],
         "day":["3"]
     },
     {
-        "id":"6",
-        "SubjectName":"FILP 113",
+        "id":"4",
+        "SubjectName":"OOPR212",
         "times":[
             {
-                "sTime":"13:30",
-                "eTime":"16:30",
-                "sTimeType":"PM",
-                "eTimeType":"PM"
-            }
-        ],
-        "day":["4"]
-    },
-    {
-        "id":"7",
-        "SubjectName":"ETIC 211",
-        "times":[
-            {
-                "sTime":"16:50",
-                "eTime":"19:50",
-                "sTimeType":"PM",
-                "eTimeType":"PM"
-            }
-        ],
-        "day":["4"]
-    },
-    {
-        "id":"8",
-        "SubjectName":"VRTS 113",
-        "times":[
-            {
-                "sTime":"12:20",
-                "eTime":"13:20",
-                "sTimeType":"PM",
-                "eTimeType":"PM"
-            }
-        ],
-        "day":["5"]
-    },
-    {
-        "id":"9",
-        "SubjectName":"LFAD 211",
-        "times":[
-            {
-                "sTime":"13:30",
-                "eTime":"15:30",
+                "sTime":"4:50",
+                "eTime":"6:50",
                 "sTimeType":"PM",
                 "eTimeType":"PM"
             },
             {
-                "sTime":"16:50",
-                "eTime":"18:20",
+                "sTime":"1:30",
+                "eTime":"3:00",
                 "sTimeType":"PM",
                 "eTimeType":"PM"
             }
         ],
-        "day":["5"]
+        "day":["3"]
+    },{
+        "id":"5",
+        "SubjectName":"ITPM 311",
+        "times":[
+            {
+                "sTime":"4:50",
+                "eTime":"7:50",
+                "sTimeType":"PM",
+                "eTimeType":"PM"
+            }
+        ],
+        "day":["4"]
+    },{
+        "id":"6",
+        "SubjectName":"NSTP 112",
+        "times":[
+            {
+                "sTime":"10:20",
+                "eTime":"1:20",
+                "sTimeType":"AM",
+                "eTimeType":"PM"
+            }
+        ],
+        "day":["7"]
+    },{
+        "id":"7",
+        "SubjectName":"PHED 111",
+        "times":[
+            {
+                "sTime":"2:30",
+                "eTime":"4:30",
+                "sTimeType":"PM",
+                "eTimeType":"PM"
+            }
+        ],
+        "day":["4"]
+    },{
+        "id":"8",
+        "SubjectName":"PHED 112",
+        "times":[
+            {
+                "sTime":"8:00",
+                "eTime":"10:00",
+                "sTimeType":"AM",
+                "eTimeType":"AM"
+            }
+        ],
+        "day":["7"]
     }
 ]
