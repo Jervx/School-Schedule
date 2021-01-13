@@ -97,7 +97,7 @@
                 "eTimeType":"PM"
             }
         ],
-        "day":["7"]
+        "day":["0"]
     },{
         "id":"7",
         "SubjectName":"PHED 111",
@@ -121,6 +121,6 @@
                 "eTimeType":"AM"
             }
         ],
-        "day":["7"]
+        "day":["0"]
     }
 ]
